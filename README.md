@@ -1,4 +1,3 @@
-Это PET-проекты разработчика sansansan74.
-
-При их разработке используются технологии dot net core 6 и выше, C++, MS SQL Server 2019 и выше.
+These are the PET projects of the developer sansansan74.
+The technologies used in their development include .NET Core 6 and above, C++, and MS SQL Server 2019 and above.
 
